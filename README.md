@@ -1,3 +1,3 @@
 # Boston_Crime
 
-![Boston!](https://github.com/chens28/Boston_Crime/blob/main/Boston.PNG width="200" height="200" /)
+![Boston!](https://github.com/chens28/Boston_Crime/blob/main/Boston.PNG width="200" height="200")
